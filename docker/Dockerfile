@@ -17,7 +17,7 @@
 # under the License.
 #
 
-FROM openjdk:8-jdk
+FROM exoplatform/jdk:openjdk-11-ubuntu2004
 
 ARG BENCHMARK_TARBALL
 
