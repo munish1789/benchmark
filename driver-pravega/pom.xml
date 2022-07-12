@@ -70,7 +70,8 @@
             <artifactId>grpc-all</artifactId>
             <!-- NOTE: Please, use 1.36.0 for Pravega Client 0.10.* builds -->
             <!-- NOTE: Please, use 1.36.2 for Pravega Client 0.11.* builds -->
-            <version>1.39.0</version>
+            <!-- NOTE: Please, user 1.39.0 for Pravega Client 0.12.* builds -->
+            <version>1.47.0</version>
         </dependency>
 
         <dependency>
